@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/nedemoapi/apis/api",
+      "type": "apis.azure"
+    },
+    "identityapp1": {
+      "connectionInfo": "App registration: neapi, Tenant: Default Directory (clover1998loveoutlook.onmicrosoft.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
